@@ -6,3 +6,5 @@ Código de las clases del Taller
 * Objetos Compuestos
 * Herencia
 * Polimorfismo
+* Generics
+* Exceptions
